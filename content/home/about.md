@@ -1,21 +1,15 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget: "Welcome to my website! I am an avid problem solver, passionate about
+  using data to solve real problems in our world. My background in economics,
+  research and data science allows me approach challenges from a unique
+  standpoint that is creative, rigorous, and practicable. I am an excellent
+  communicator, enthusiastic team player and methodical professional.  ​  When I
+  am not working, I enjoy baking, taking long walks, or winding down with a good
+  TV show. "
+widget_id: ABOUT ME
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+title: Bio
+active: true
 author: admin
 ---
